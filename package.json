@@ -1,7 +1,7 @@
 {
-  "description": "Official TinyMCE React Component",
+  "description": "unOfficial TinyMCE React Component 19",
   "repository": {
-    "url": "https://github.com/tinymce/tinymce-react"
+    "url": "https://github.com/vittodevit/tinymce-react-19"
   },
   "files": [
     "lib",
@@ -77,5 +77,5 @@
     "vite": "^5.3.3"
   },
   "version": "6.0.0-rc",
-  "name": "@tinymce/tinymce-react"
+  "name": "@vittodevit/tinymce-react-19"
 }
